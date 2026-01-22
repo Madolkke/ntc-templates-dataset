@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Dataset source (assuming we don't want to re-host the entire sub-repo inside this one without submodule)
+ntc-templates/
+
+# VS Code
+.vscode/
